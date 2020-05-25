@@ -1,0 +1,49 @@
+body {
+    display: flex;
+    min-height: 100vh;
+    flex-direction: column;
+  }
+
+main {
+    flex: 1 0 auto;
+}
+  
+.date {
+    font-size: 1.6em !important;
+}
+
+#currency-control .select-dropdown{
+    color: white;
+}
+
+.currency-description {
+    margin-top:3px; 
+}
+
+.flag {
+    margin-right:10px;
+}
+
+.currency-code {
+    font-weight: bold;
+}
+
+.currency-rate {
+    font-size: 1.5em;
+}
+
+.card-content {
+    padding-bottom: 100px;
+}
+
+.tip {
+    padding: 5px;
+    background-color: #5c6bc0;
+    color: white;
+}
+
+.currency-title {
+    margin-top:15px;
+    color:  #5c6bc0;
+    font-weight: bold;
+}
