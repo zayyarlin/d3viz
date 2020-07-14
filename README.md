@@ -5,7 +5,7 @@ The application uses the foreign exchange rate API from https://exchangerate.hos
 ![](/screenshot.PNG)
 
 ## Demo Link
-- [Running App](https://forexrate.web.app/)
+- [Running App](https://forexrate.web.app/) using Firebase
 
 ## Technologies Used
 - Javascript
